@@ -1,12 +1,12 @@
-# Original App Design Project - README Template
-APP_NAME_HERE
-Table of Contents
+# Capstone Project - Free Travel
+
+## Table of Contents
 Overview
 Product Spec
 Wireframes
 Schema
 Overview
-Description
+###Description
 [Description of your app]
 
 App Evaluation
