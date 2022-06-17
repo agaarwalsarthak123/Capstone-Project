@@ -1,7 +1,8 @@
-# Capstone Project - Free Travel
+# Capstone Project - Donating Books
 
 ## Table of Contents
 Overview
+This app is going to match people's choice with the books 
 Product Spec
 Wireframes
 Schema
