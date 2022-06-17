@@ -13,8 +13,8 @@ Overview
 App Evaluation
 [Evaluation of your app across the following attributes]
 
-Category: Matching app
-Mobile: All will be made for mobile.
+1. Category: Matching app
+2. Mobile: All will be made for mobile.
 Story: Users will fill out a questionaire. Based upon their answers, the app is going to suggest books in a 10 miles radius that people are willing to give away.
 Market: It will capture market for all ages. Specifically for people who have who love reading books and cannot afford a papercopy of it.
 Habit: The app will be used whenever someone is in a need of a book and cannot afford it. It will also be used by people of extra books an just want to donate them
