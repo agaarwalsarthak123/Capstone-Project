@@ -1,26 +1,28 @@
 # Capstone Project - Donating Books
 
 ## Table of Contents
-Overview
-This app is going to ask people to answer a questionaire. Based upon the questionaire users are recommended a list of books that are availible for donation in 10 mile radius. Once they choose a book they get the contact ionformation of the doner to help schedule a time for book pickup.
+
 Product Spec
 Wireframes
 Schema
 Overview
-###Description
-[Description of your app]
 
-App Evaluation
+Overview
+
+### Description
+This app is going to ask people to answer a questionaire. Based upon the questionaire users are recommended a list of books that are availible for donation in 10 mile radius. Once they choose a book they get the contact ionformation of the doner to help schedule a time for book pickup.
+
+### App Evaluation
 [Evaluation of your app across the following attributes]
 
 1. Category: Matching app
 2. Mobile: All will be made for mobile.
-Story: Users will fill out a questionaire. Based upon their answers, the app is going to suggest books in a 10 miles radius that people are willing to give away.
-Market: It will capture market for all ages. Specifically for people who have who love reading books and cannot afford a papercopy of it.
-Habit: The app will be used whenever someone is in a need of a book and cannot afford it. It will also be used by people of extra books an just want to donate them
-Scope: The app would have a simple interface fro people to easy get dpnated books so that people who do not have money can easily afford it. Although it can be broadened to making people use it as an E-Reader.
+3. Story: Users will fill out a questionaire. Based upon their answers, the app is going to suggest books in a 10 miles radius that people are willing to give away.
+4. Market: It will capture market for all ages. Specifically for people who have who love reading books and cannot afford a papercopy of it.
+5. Habit: The app will be used whenever someone is in a need of a book and cannot afford it. It will also be used by people of extra books an just want to donate them
+6. Scope: The app would have a simple interface fro people to easy get dpnated books so that people who do not have money can easily afford it. Although it can be broadened to making people use it as an E-Reader.
 Product Spec
-1. User Stories (Required and Optional)
+### User Stories (Required and Optional)
 Required Must-have Stories
 1. User can login/sign up in the app
 2. User will choose from 2 options to either donate a book or get a book
@@ -30,7 +32,7 @@ Required Must-have Stories
  
 [fill in your required user stories here]
 …
-Optional Nice-to-have Stories
+### Optional Nice-to-have Stories
 1. It would be nice to have an in-built chat feature so that user's privacy details are secured.
 2. Chat features will give liberty to not share users details but will help in getting in contact with user to share pictures of the book condition.
 3. It would be nice to have an E-Reder for all the books so that nobody is deprived of a book irrectived of it availibility.
