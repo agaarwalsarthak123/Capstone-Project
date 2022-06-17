@@ -16,7 +16,7 @@ This app is going to ask people to answer a questionaire. Based upon the questio
 [Evaluation of your app across the following attributes]
 
 1. Category: Matching app
-2. Mobile: All will be made for mobile.
+2. Mobile: App will be made for mobile.
 3. Story: Users will fill out a questionaire. Based upon their answers, the app is going to suggest books in a 10 miles radius that people are willing to give away.
 4. Market: It will capture market for all ages. Specifically for people who have who love reading books and cannot afford a papercopy of it.
 5. Habit: The app will be used whenever someone is in a need of a book and cannot afford it. It will also be used by people of extra books an just want to donate them
