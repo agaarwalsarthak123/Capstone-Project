@@ -42,30 +42,25 @@ Required Must-have Stories
 …
 2. Screen Archetypes
 * Login- User can log in with registered user name and password using data form parse.
-* Register
-  ** user signs up with their full name, email address if hey do not have an existing account
-* 
+* Register - User signs up with their full name, email address if hey do not have an existing account
+* Questionaire - Allows users to answer a set of questionaire
+* Book Recommendations - Give book recommendations to users based upon the questionaire
+* Contact information - Once a book is selected by user. Then the app will provide the donars address/phone number/email address
 * Settings - Allow people to change their email address and profile picture
-[list first screen here]
-[list associated required story here]
-…
-[list second screen here]
-[list associated required story here]
 …
 3. Navigation
 Tab Navigation (Tab to Screen)
 
-[fill out your first tab]
-[fill out your second tab]
-[fill out your third tab]
+* Questionaire
+* Book search
+* Profile / Settings
+* 
 Flow Navigation (Screen to Screen)
 
-[list first screen here]
-[list screen navigation here]
-…
-[list second screen here]
-[list screen navigation here]
-…
+* Log-in -> Account registration if no account is available
+* Answering questionaire -> Searching desired book from a list of books
+* Selecting a specific book -> getting contact details of the person along with google maps location
+
 Wireframes
 [Add picture of your hand sketched wireframes in this section]
 
