@@ -21,7 +21,8 @@ This app is going to ask people to answer a questionaire. Based upon the questio
 4. Market: It will capture market for all ages. Specifically for people who have who love reading books and cannot afford a papercopy of it.
 5. Habit: The app will be used whenever someone is in a need of a book and cannot afford it. It will also be used by people of extra books an just want to donate them
 6. Scope: The app would have a simple interface fro people to easy get dpnated books so that people who do not have money can easily afford it. Although it can be broadened to making people use it as an E-Reader.
-Product Spec
+
+## Product Spec
 ### User Stories (Required and Optional)
 Required Must-have Stories
 1. User can login/sign up in the app
@@ -40,6 +41,7 @@ Required Must-have Stories
 [fill in your required user stories here]
 …
 2. Screen Archetypes
+* ioh;on
 [list first screen here]
 [list associated required story here]
 …
