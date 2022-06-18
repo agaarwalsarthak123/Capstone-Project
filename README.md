@@ -2,11 +2,6 @@
 
 ## Table of Contents
 
-Product Spec
-Wireframes
-Schema
-Overview
-
 Overview
 
 ### Description
