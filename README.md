@@ -43,7 +43,7 @@ Required Must-have Stories
 2. Screen Archetypes
 * Login- User can log in with registered user name and password using data form parse.
 * Register
-  *user signs up with their full name, email address if hey do not have an existing account
+  **user signs up with their full name, email address if hey do not have an existing account
 * 
 * Settings - Allow people to change their email address and profile picture
 [list first screen here]
