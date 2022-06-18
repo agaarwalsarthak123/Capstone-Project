@@ -20,14 +20,17 @@ This app is going to ask people to answer a questionaire. Based upon the questio
 ## Product Spec
 
 1. User Stories (Required and Optional)
+
 Required Must-have Stories
+
 * User can login/sign up in the app
 * User will choose from 2 options to either donate a book or get a book
 * If user chooses to donate a book, they will be asked for an ISBN, book titles, author name, published year, version.
 * If user wants to get donated book, they will be asked to fill out a questionaire and then booksare recommended based on the answers of questionaire in a 10 miles radius.
 * After choosing a book from the list, user will see doner's location on Google Maps with name and phone number of the doner.
 
-### Optional Nice-to-have Stories
+Optional Nice-to-have Stories
+
 * It would be nice to have an in-built chat feature so that user's privacy details are secured.
 * Chat features will give liberty to not share users details but will help in getting in contact with user to share pictures of the book condition.
 * It would be nice to have an E-Reder for all the books so that nobody is deprived of a book irrectived of it availibility.
