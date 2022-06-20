@@ -58,4 +58,4 @@ Tab Navigation (Tab to Screen)
 * Selecting a specific book -> getting googel maps location fo the person
 
 5. Wireframes
-The file upload "Wireframe.pdf" has wireframe picture
+The file uploaded "Wireframe.pdf" has wireframe picture
